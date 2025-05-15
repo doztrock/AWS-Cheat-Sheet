@@ -1,1 +1,1 @@
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/doztrock/AWS-Study-Guide)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/doztrock/AWS-Cheat-Sheet)
